@@ -1,5 +1,21 @@
 # 02 - 기업 내부 활동의 가치 사슬 분석
 
+## 0. 가치사슬 모델 구조
+
+```mermaid
+flowchart TB
+    subgraph SUPPORT["🏢 지원활동 (Support Activities)"]
+        direction LR
+        FI["기업 인프라"] --- HR["인적자원관리"] --- TD["기술개발"] --- PR["조달·구매"]
+    end
+    subgraph PRIMARY["⚙️ 주요활동 (Primary Activities)"]
+        direction LR
+        IL["투입·조달물류"] --> OP["운영·생산"] --> OL["산출·배송물류"] --> MS["마케팅및영업"] --> SV["서비스"]
+    end
+    SUPPORT -.지원.-> PRIMARY
+    PRIMARY --> MARGIN(("💰 마진"))
+```
+
 ## 1. 가치사슬 주요활동 분석
 
 ### 1-1. 주요활동 공통 분석 질문표
