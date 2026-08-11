@@ -1,6 +1,8 @@
 # DOS를 위한 Market Relevance 기준 설정
 
-> `01_methodology.md`의 DOS 공식(`DOS = (Importance − Satisfaction) × Market Relevance`)에서 Market Relevance는 "TAM-SAM-SOM 중 적정 모수에 대해 해당 Pain/Goal이 갖는 상대적 비중"으로 정의된다. 이 문서는 `03_AOS_채점_및_매트릭스.md`에서 채점한 18개 Pain Point 각각에 대해 **TAM/SAM/SOM 중 어떤 모수를 분모로 써야 하는가**를 판단한다.
+> `01_methodology.md`의 DOS 공식(`DOS = (Importance − Satisfaction) × Market Relevance`)에서 Market Relevance는 "TAM-SAM-SOM 중 적정 모수에 대해 해당 Pain/Goal이 갖는 상대적 비중"으로 정의된다. 이 문서는 `03_AOS_채점_및_매트릭스.md`에서 채점한 Pain Point 각각에 대해 **TAM/SAM/SOM 중 어떤 모수를 분모로 써야 하는가**를 판단한다.
+>
+> (2026-08-11 갱신: 05챕터에서 Adjacent CJM을 오세훈·한소미·윤지훈 개별 여정으로 재분리하면서 채점 대상이 18개→24개로 늘었다. 아래 결론 자체는 바뀌지 않는다 — 오세훈은 원래도 세그먼트 B로 개별 판단돼 있었고, 이번 재분리로 그의 Pain Point 3개를 이제 실제로 개별 계산에 반영할 수 있게 됐다. 한소미·윤지훈은 여전히 TAM-SAM-SOM 펀널 자체가 없어 숫자화 보류 결론이 그대로 유지된다.)
 
 ## 결론
 
